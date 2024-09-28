@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React.js, PostgresSQL and SpringBoot.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nine-xi-33.vercel.app/](https://portfolio-nine-xi-33.vercel.app/)
+- 👨‍💻 Here's my humble portfolio page: [https://portfolio-nine-xi-33.vercel.app/](https://portfolio-nine-xi-33.vercel.app/)
 
 - 💬 Ask me about **anything that's related to tech. And cats/dogs.**
 
-- 📫 How to reach me **knacharyakavoor@gmail.com**
+- 📫 You can reach out to me at **knacharyakavoor@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10QODijqMzTahOJqRXb-nH6PJ6oBy5JZI/view?usp=sharing](https://drive.google.com/file/d/10QODijqMzTahOJqRXb-nH6PJ6oBy5JZI/view?usp=sharing)
+- 📄 Here's my resume: [https://drive.google.com/file/d/10QODijqMzTahOJqRXb-nH6PJ6oBy5JZI/view?usp=sharing](https://drive.google.com/file/d/10QODijqMzTahOJqRXb-nH6PJ6oBy5JZI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

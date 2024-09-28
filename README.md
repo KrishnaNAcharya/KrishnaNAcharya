@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Krishna N Acharya</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Aspiring Fullstack developer from India. I'm always looking to grow, upskill and have a fun time!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnanacharya&label=Profile%20views&color=0e75b6&style=flat" alt="krishnanacharya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnanacharya" alt="krishnanacharya" /></a> </p>
+
+- 🌱 I’m currently learning **React.js, PostgresSQL and SpringBoot.**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-nine-xi-33.vercel.app/](https://portfolio-nine-xi-33.vercel.app/)
+
+- 💬 Ask me about **anything that's related to tech. And cats/dogs.**
+
+- 📫 How to reach me **knacharyakavoor@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/10QODijqMzTahOJqRXb-nH6PJ6oBy5JZI/view?usp=sharing](https://drive.google.com/file/d/10QODijqMzTahOJqRXb-nH6PJ6oBy5JZI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

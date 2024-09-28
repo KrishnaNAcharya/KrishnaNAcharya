@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna N Acharya</h1>
 <h3 align="center">Aspiring Fullstack developer from India. I'm always looking to grow, upskill and have a fun time!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnanacharya&label=Profile%20views&color=0e75b6&style=flat" alt="krishnanacharya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnanacharya&label=Profile%20views&color=b40e0e&style=flat" alt="krishnanacharya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnanacharya" alt="krishnanacharya" /></a> </p>
 

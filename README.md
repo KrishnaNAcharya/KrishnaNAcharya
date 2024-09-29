@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Krishna N Acharya! <br><br>🌱 I’m currently learning React.js, PostgresSQL and SpringBoot.<br><br>👨‍💻 Here's my humble portfolio page: https://portfolio-nine-xi-33.vercel.app/<br><br>💬 Ask me about anything that's related to tech. And cats/dogs.<br><br>📫 You can reach out to me at knacharyakavoor@gmail.com.<br><br>📄 Here's my resume: https://drive.google.com/file/d/10QODijqMzTahOJqRXb-nH6PJ6oBy5JZI/view?usp=sharing
+👋 **Hi there! I'm Krishna N Acharya!** <br><br>🌱 I’m currently learning React.js, PostgresSQL and SpringBoot.<br><br>👨‍💻 Here's my humble portfolio page: https://portfolio-nine-xi-33.vercel.app/<br><br>💬 Ask me about anything that's related to tech. And cats/dogs.<br><br>📫 You can reach out to me at knacharyakavoor@gmail.com.<br><br>📄 Here's my resume: https://drive.google.com/file/d/10QODijqMzTahOJqRXb-nH6PJ6oBy5JZI/view?usp=sharing
 
 
 ## 🌐 Socials:

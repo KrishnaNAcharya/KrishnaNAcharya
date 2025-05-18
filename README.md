@@ -24,16 +24,6 @@ Beyond my primary focus:
 *   I possess a foundational understanding of **Machine Learning (ML)** and **Large Language Models (LLMs)**, which fuels my passion for exploring cutting-edge technology solutions.
 *   I am keenly interested in the future trajectory of **AI**, including its societal impact and the underlying hardware advancements that power these technologies.
 
-# 🤔 What I do in my free time?
-During my leisure time, I enjoy:
-*   Listening to music.
-*   Playing video games (Very occasionally!).
-*   Exploring a wide array of technologies, both new and old.
-*   Photography is another passion.
-*   Conducting in-depth research on various topics that pique my curiosity.
-*   An interesting quirk: I don’t really watch web series, anime, or movies – I simply read the plot summaries. It's much faster, and I still grasp the main points (blame my love-hate relationship with perfection and efficiency). So please, refrain from calling me a walking encyclopedia! 😉
-*   P.S. My Reddit and LeetCode accounts are top secret (a bit shy here!).
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KrishnaNAcharya)
 

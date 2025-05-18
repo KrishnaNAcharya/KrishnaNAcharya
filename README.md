@@ -11,14 +11,6 @@ Outside the coding grind, you'll find me keeping up with tech news, diving into 
 
 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1CrKpsrni_YHl0RdTJwLYFdogMdyF3w4q/view)<br>
 
-
-# 🚀 Current Focus
-My current efforts are centered on:
-*   Enhancing my problem-solving capabilities by deepening my understanding of **Data Structures and Algorithms (DSA)**.
-*   Actively developing several projects, including **NASAR, Wipfli MentorStack, and the IDEA Website**.
-*   Maintaining my physical and mental well-being.
-*   Diligently preparing for upcoming placement opportunities.
-
 # 💡 Additional Interests
 Beyond my primary focus:
 *   I possess a foundational understanding of **Machine Learning (ML)** and **Large Language Models (LLMs)**, which fuels my passion for exploring cutting-edge technology solutions.

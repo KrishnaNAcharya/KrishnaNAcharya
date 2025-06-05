@@ -5,7 +5,7 @@ Outside the coding grind, you'll find me keeping up with tech news, diving into 
 
 <br>
 
-👨‍💻 **Know more about me here! :** [krishnanacharya.vercel.app](https://krishnanacharya.vercel.app)
+👨‍💻 **Know more about me here! :** [krishnanacharya.me](krishnanacharya.me)
 
 📫 **Reach me at:** knacharyakavoor@gmail.com <br>
 

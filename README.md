@@ -29,12 +29,8 @@ Beyond my primary focus:
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
     <div style="flex: 2;">
-      <img src="https://github-readme-stats.vercel.app/api?username=KrishnaNAcharya&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaNAcharya&theme=neon&hide_border=false" alt="GitHub Streak" />
-    </div>
-    <div style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaNAcharya&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" />
     </div>
   </div>
 </div>

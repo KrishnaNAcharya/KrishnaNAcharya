@@ -1,7 +1,10 @@
 # 💫 About Me:
-Hey, I'm Krishna N Acharya, a final-year AI & Data Science student at NMAMIT. I'm passionate about full-stack development, constantly exploring the latest in tech, and enjoy experimenting with new (and old) tools just to see what they can do. I have a strong focus on user experience, performance, and efficiency—perhaps a bit of a perfectionist, but I embrace it!
+Hi, I'm Krishna N Acharya, a final-year B.Tech student in Artificial Intelligence and Data Science at NMAM Institute of Technology.
+I'm passionate about full-stack development, with a strong focus on building high-performance, efficient, and user-centric applications. I enjoy exploring both modern and legacy technologies, often experimenting with tools just to understand their potential, a habit fueled by curiosity and a touch of perfectionism.
 
-Outside the coding grind, you'll find me keeping up with tech news, diving into research rabbit holes, or enjoying photography and music. And yes, I do indulge in video games... once in a blue moon! If you're looking for me, I'm probably geeking out over some new tech or testing something unconventional just for the fun of it.
+Beyond coding, I stay updated with tech trends, frequently dive into deep research rabbit holes, and have a keen interest in photography, music, and the occasional video game.
+
+Whether it's tinkering with new frameworks or refining UX details, you'll usually find me immersed in something technical, just for the love of building and learning.
 
 <br>
 

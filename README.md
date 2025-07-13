@@ -9,7 +9,7 @@ Outside the coding grind, you'll find me keeping up with tech news, diving into 
 
 📫 **Reach me at:** knacharyakavoor@gmail.com <br>
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1CrKpsrni_YHl0RdTJwLYFdogMdyF3w4q/view)<br>
+📄 **Resume:** [View My Resume](https://drive.google.com/file/d/15jZJ2p3_6xubIQ5ZxI1bFbqpHfyTFiDn/view?usp=sharing)<br>
 
 # 💡 Additional Interests
 Beyond my primary focus:

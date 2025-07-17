@@ -12,7 +12,7 @@ Whether it's tinkering with new frameworks or refining UX details, you'll usuall
 
 📫 **Reach me at:** knacharyakavoor@gmail.com <br>
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1ifg862x71aAlRSuAU0iXsYYXU_wi-BZK/view?usp=sharing)<br>
+📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1wTYGWbn2Ytlx22-cINL579gtQzm9djTt/view?usp=sharing)<br>
 
 # 💡 Additional Interests
 Beyond my primary focus:

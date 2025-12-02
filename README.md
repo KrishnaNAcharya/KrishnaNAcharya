@@ -10,7 +10,7 @@ I talk like I’m joking 95% of the time, but the remaining 5% I’m dead seriou
 
 I'll look into Spring Boot and system design when I get the time. I'm prioritising my mental and physical health more. My hairline has gone back a kilometer already. I still cannot believe that despite the burnout, my memory power is inhuman. I can remember what I've eaten, at what time, in what place, and entire conversations that happened 10 years ago like nothing. The more I think about it, the more this curse is terrifying.
 
-I LOVE researching things. If I notice one symptom, I’ll spend two hours researching it like I'm preparing to publish a journal paper. Give me a topic and one night, I’ll show up the next day talking like I’ve worked 5 years in that domain. A small unanswered question can haunt me for days.
+I LOVE researching things. If I notice one symptom, I’ll spend two hours researching it like I'm preparing to publish a journal paper. Give me a topic and one night, I’ll show up the next day talking like I’ve worked 5 years in that domain. If “reading documentation for fun” was a personality trait, that’s me.
 
 New tech stack? I MUST KNOW IT IN AND OUT.
 

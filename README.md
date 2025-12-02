@@ -8,8 +8,11 @@ I'm primarily a full stack developer. Curious about where AI is headed. My bet? 
 I'll look into SpringBoot and system design when I get the time. I'm prioritising my mental and physical health more. My hairline has gone back a kilometer already.
 
 I LOVE researching things. 
+
 New tech stack? I MUST KNOW IN AND OUT OF IT.
+
 A visit to the orthodontist? I SHALL KNOW EVERY TERM THE DOC HAD MENTIONED IN THE VISIT.
+
 I notice hair loss? I MUST KNOW EVERY TREATMENT OUT THERE TO MAKE IT GROW BACK LIKE CRETACEOUS ERA FORESTS.
 
 I love experiementing things too. Don't be surprised when I mix pickled paprika to curd rice. I'm weird.

@@ -26,7 +26,7 @@ PC, phone, or any other device with silicon that has problems in it? Tech purcha
 
 To my juniors reading this: either you crack DSA or DSA will crack you. Start now.
 
-Someone recommend me a good therapist already. Why tf did I even write this?
+Someone recommend me atleast 5 good therapists already. Why tf did I even write this?
 
 <br>
 

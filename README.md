@@ -6,7 +6,7 @@ Almost done with engineering life. Finally broke into big tech after months of g
 
 I'm primarily a full stack developer. Curious about where AI is headed. My bet? Small LLMs are the future.
 
-I talk like I’m joking 80% of the time, but the remaining 20% I’m dead serious… sometimes even I can’t tell which is which.
+I talk like I’m joking 80% of the time, but the remaining 20% I’m dead serious… sometimes even I can’t tell which is which. If something is working perfectly, I’ll still open it to understand why it’s working perfectly. My brain peak hours are 1AM to 4AM. Productivity? No. Random curiosity rabbit holes? Absolutely yes.
 
 I'll look into Spring Boot and system design when I get the time. I'm prioritising my mental and physical health more. My hairline has gone back a kilometer already.
 

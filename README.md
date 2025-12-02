@@ -4,7 +4,7 @@ Not gonna put AI slop in here, so here's a brief wall of text about me.
 
 Almost done with engineering life. Finally broke into big tech after months of gruelling job hunting.
 
-I'm primarily a full-stack developer. Curious about where AI is headed. My bet? Small LLMs are the future.
+I'm primarily a full stack developer. Curious about where AI is headed. My bet? Small LLMs are the future.
 
 I'll look into Spring Boot and system design when I get the time. I'm prioritising my mental and physical health more. My hairline has gone back a kilometer already.
 
@@ -14,7 +14,7 @@ New tech stack? I MUST KNOW IT IN AND OUT.
 
 A visit to the orthodontist? I SHALL KNOW EVERY TERM THE DOC MENTIONED IN THE VISIT.
 
-I notice hair loss? I MUST KNOW EVERY TREATMENT OUT THERE TO MAKE IT GROW BACK LIKE CRETACEOUS-ERA FORESTS.
+I notice hair loss? I MUST KNOW EVERY TREATMENT OUT THERE TO MAKE IT GROW BACK LIKE CRETACEOUS ERA FORESTS.
 
 I love experimenting with things too. Don't be surprised when I mix pickled paprika with curd rice. I'm weird. I embrace my craziness.
 

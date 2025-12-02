@@ -11,6 +11,7 @@ I talk like I’m joking 80% of the time, but the remaining 20% I’m dead serio
 I'll look into Spring Boot and system design when I get the time. I'm prioritising my mental and physical health more. My hairline has gone back a kilometer already.
 
 I LOVE researching things. If I notice one symptom, I’ll spend two hours researching it like I'm preparing to publish a journal paper.
+
 New tech stack? I MUST KNOW IT IN AND OUT.
 
 A visit to the orthodontist? I SHALL KNOW EVERY TERM THE DOC MENTIONED IN THE VISIT.

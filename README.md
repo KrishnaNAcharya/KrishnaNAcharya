@@ -1,31 +1,29 @@
-# 💫 About Me:
-Hi, I'm Krishna N Acharya, a final-year B.Tech student in Artificial Intelligence and Data Science at NMAM Institute of Technology.
-I'm passionate about full-stack development, with a strong focus on building high-performance, efficient, and user-centric applications. I enjoy exploring both modern and legacy technologies, often experimenting with tools just to understand their potential, a habit fueled by curiosity and a strong attention to detail.
+#  About Me:
+Not gonna put AI slop in here so here's a brief wall of text about me.
 
-Beyond development, I stay updated on tech trends, frequently dive into deep research rabbit holes, and have a keen interest in photography and music.
+Almost done with engineering life. Finally broke into big tech after months of gruelling job hunt.
 
-Whether it's tinkering with new frameworks or refining UX details, you'll usually find me immersed in something technical, just for the love of building and learning.
+I'm primarily a full stack developer. Curious about where AI is headed. My bet? Small LLMs are the future.
+
+I'll look into SpringBoot and System Design when I get the time. I'm prioritising my mental and physical health more. My hairline has gone back a kilometer already.
+
+I LOVE researching things. 
+New tech stack? I MUST KNOW IN AND OUT OF IT.
+A visit to the orthodontist? I SHALL KNOW EVERY TERM THE DOC HAD MENTIONED IN THE VISIT.
+I notice hair loss? I MUST KNOW EVERY TREATMENT OUT THERE TO MAKE IT GROW BACK LIKE CRETACEOUS ERA FORESTS.
+
+I love experiementing things too. Don't be surprised when I mix pickled paprika to curd rice. I'm weird.
+
+I embrace my craziness.
 
 <br>
 
-👨‍💻 **Know more about me here! :** [krishnanacharya.me](https://www.krishnanacharya.me/)
+ **Know more about me here! :** [krishnanacharya.me](https://www.krishnanacharya.me/)
 
-📫 **Reach me at:** knacharyakavoor@gmail.com <br>
+ **Reach me at:** knacharyakavoor@gmail.com <br>
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1iC6icsoHIYJu9r-JGymriCUw3rcbIFTK/view?usp=sharing)<br>
+ **Resume:** [View My Resume](https://drive.google.com/file/d/1iC6icsoHIYJu9r-JGymriCUw3rcbIFTK/view?usp=sharing)<br>
 
-# 💡 Additional Interests
-Beyond my primary focus:
-*   I possess a foundational understanding of **Machine Learning (ML)** and **Large Language Models (LLMs)**, which fuels my passion for exploring cutting-edge technology solutions.
-*   I am keenly interested in the future trajectory of **AI**, including its societal impact and the underlying hardware advancements that power these technologies.
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KrishnaNAcharya)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23c02736.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-%2300E599.svg?style=for-the-badge&logo=neon&logoColor=black) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 # 📊 GitHub Stats:
 <div align="center">

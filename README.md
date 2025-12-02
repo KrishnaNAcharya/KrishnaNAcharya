@@ -1,23 +1,28 @@
 #  About Me:
-Not gonna put AI slop in here so here's a brief wall of text about me.
 
-Almost done with engineering life. Finally broke into big tech after months of gruelling job hunt.
+Not gonna put AI slop in here, so here's a brief wall of text about me.
 
-I'm primarily a full stack developer. Curious about where AI is headed. My bet? Small LLMs are the future.
+Almost done with engineering life. Finally broke into big tech after months of gruelling job hunting.
 
-I'll look into SpringBoot and system design when I get the time. I'm prioritising my mental and physical health more. My hairline has gone back a kilometer already.
+I'm primarily a full-stack developer. Curious about where AI is headed. My bet? Small LLMs are the future.
 
-I LOVE researching things. 
+I'll look into Spring Boot and system design when I get the time. I'm prioritising my mental and physical health more. My hairline has gone back a kilometer already.
 
-New tech stack? I MUST KNOW IN AND OUT OF IT.
+I LOVE researching things.
 
-A visit to the orthodontist? I SHALL KNOW EVERY TERM THE DOC HAD MENTIONED IN THE VISIT.
+New tech stack? I MUST KNOW IT IN AND OUT.
 
-I notice hair loss? I MUST KNOW EVERY TREATMENT OUT THERE TO MAKE IT GROW BACK LIKE CRETACEOUS ERA FORESTS.
+A visit to the orthodontist? I SHALL KNOW EVERY TERM THE DOC MENTIONED IN THE VISIT.
 
-I love experiementing things too. Don't be surprised when I mix pickled paprika to curd rice. I'm weird.
+I notice hair loss? I MUST KNOW EVERY TREATMENT OUT THERE TO MAKE IT GROW BACK LIKE CRETACEOUS-ERA FORESTS.
 
-I embrace my craziness.
+I love experimenting with things too. Don't be surprised when I mix pickled paprika with curd rice. I'm weird. I embrace my craziness.
+
+Known in my social circle as the walking encyclopedia of technology.
+
+PC, phone, or any other device with a chip that has problems in it? Tech purchase suggestions? Tech stack roadmap? Insights into anything regarding technology? The first guy people think of is me.
+
+To my juniors reading this: either you crack DSA or DSA will crack you. Start now.
 
 <br>
 

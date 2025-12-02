@@ -5,7 +5,7 @@ Almost done with engineering life. Finally broke into big tech after months of g
 
 I'm primarily a full stack developer. Curious about where AI is headed. My bet? Small LLMs are the future.
 
-I'll look into SpringBoot and System Design when I get the time. I'm prioritising my mental and physical health more. My hairline has gone back a kilometer already.
+I'll look into SpringBoot and system design when I get the time. I'm prioritising my mental and physical health more. My hairline has gone back a kilometer already.
 
 I LOVE researching things. 
 New tech stack? I MUST KNOW IN AND OUT OF IT.

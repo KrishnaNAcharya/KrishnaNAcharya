@@ -20,7 +20,7 @@ I love experimenting with things too. Don't be surprised when I mix pickled papr
 
 Known in my social circle as the walking encyclopedia of technology.
 
-PC, phone, or any other device with a chip that has problems in it? Tech purchase suggestions? Tech stack roadmap? Insights into anything regarding technology? The first guy people think of is me.
+PC, phone, or any other device with silicon that has problems in it? Tech purchase suggestions? Tech stack roadmap? Insights into anything regarding technology? The first guy people think of is me.
 
 To my juniors reading this: either you crack DSA or DSA will crack you. Start now.
 

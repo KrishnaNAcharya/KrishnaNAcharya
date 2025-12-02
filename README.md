@@ -24,6 +24,8 @@ Known in my social circle as the walking encyclopedia of technology.
 
 PC, phone, or any other device with silicon that has problems in it? Tech purchase suggestions? Tech stack roadmap? Insights into anything regarding technology? The first guy people think of is me. I fix other people’s devices for free but can’t fix my sleep schedule to save my life.
 
+Someone recommend me a good therapist already.
+
 To my juniors reading this: either you crack DSA or DSA will crack you. Start now.
 
 

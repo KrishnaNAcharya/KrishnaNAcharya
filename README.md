@@ -3,12 +3,12 @@
 idk what to write here and i dont want to throw ai slop here so ggs<br>
 
 i joke 95% of the time<br>
-the other 5% is legally admissible in court<br>
+the other 5% is legally admissible in court and is monitored by 3 fbi agents<br>
 classified government information<br>
 
 the pentagon denied my own brain access<br>
 
-entire day: npc idle animation<br>
+entire day: npc_idle_animation.exe<br>
 
 but at 1:03 AM<br>
 brain boots like a haunted windows update demon and<br>
@@ -18,13 +18,17 @@ or a raccoon discovering electricity<br>
 productivity?<br>
 absolutely not<br>
 
-opening 73 tabs about one term on the internet<br>
+opening 73 tabs about one term on the dark web<br>
 that doesn't even exist in the Oxford Dictionary<br>
 or the ancient Library of Alexandria?<br>
 
 elite performance<br>
 
-hairline moved back one kilometer<br>
+for example hairline goes away to buy milk<br>
+like it had somewhere better to be<br>
+no goodbye<br>
+no forwarding address<br>
+just gone<br>
 
 my reaction was not sadness<br>
 
@@ -51,6 +55,7 @@ pc screaming<br>
 laptop possessed<br>
 wifi acting paranormal<br>
 printer doing satanic rituals<br>
+microwave blinking SOS since 2011<br>
 
 they summon me with the elder scroll<br>
 
@@ -65,12 +70,13 @@ no documentation<br>
 no patch<br>
 no developer support<br>
 
-also my memory is deeply sus<br>
+also my memory is deeply, cosmically sus<br>
 
 i remember what i ate<br>
 where i ate<br>
 what time i ate<br>
 and a random conversation from 2014 at 6:42 PM<br>
+your IP address (i'm joking lol)[or am i]<br>
 
 aws will probably kidnap me<br>
 to study this cursed archival storage<br>
@@ -85,6 +91,9 @@ begging me to provide answers<br>
 mate i intern at thomson reuters<br>
 if anyone from there sees this<br>
 im cooked lmfao<br>
+if anyone from TR is reading this<br>
+my account was hacked<br>
+my cat wrote this<br>
 
 hr will summon me<br>
 like a dark souls boss fight<br>

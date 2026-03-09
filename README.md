@@ -74,6 +74,8 @@ known in my social circle as the walking google where gemini internally cries to
 
 mate i intern at thomson reuters, if anyone from there sees this im cooked lmfao, hr will summon me like dark souls boss fight
 
+yes, im absolutely unhinged if thats what youre thinking
+
 <br>
 
 👨‍💻 **Know more about me here! :** [krishnanacharya.me](https://www.krishnanacharya.me/)

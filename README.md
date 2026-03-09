@@ -1,101 +1,120 @@
-# 💫 About Me (WARNING: BRAIN DAMAGE IMMINENT):
+# 💫 About Me:
 
-idk what to write here and i dont want to throw ai slop here so ggs
+idk what to write here and i dont want to throw ai slop here so ggs<br>
 
-i joke 95% of the time, the other 5% is legally admissible in court, classified government information
+i joke 95% of the time<br>
+the other 5% is legally admissible in court<br>
+classified government information<br>
 
-the pentagon denied my own brain access
+the pentagon denied my own brain access<br>
 
-entire day: npc idle animation
+entire day: npc idle animation<br>
 
-brain boots at 1:03 AM like a haunted windows update demon or a raccoon discovering electricity
+but at 1:03 AM<br>
+brain boots like a haunted windows update demon and<br>
+overclocks like hitting silicon lottery on RTX 5090<br>
+or a raccoon discovering electricity<br>
 
-productivity? absolutely not
+productivity?<br>
+absolutely not<br>
 
-opening 73 tabs about one term in the internet that doesnt even exist in the Oxford Dictionary or Ancient library of Alexandria? elite performance
+opening 73 tabs about one term on the internet<br>
+that doesn't even exist in the Oxford Dictionary<br>
+or the ancient Library of Alexandria?<br>
 
-hairline moved back one kilometer
+elite performance<br>
 
-my reaction was not sadness
+hairline moved back one kilometer<br>
 
-instead i downloaded the entire lore of hair follicles, i will find ways to grow it back like cretaceous era forests
+my reaction was not sadness<br>
 
-new tech stack released somewhere on earth?
+instead i downloaded the entire lore of hair follicles<br>
+i will find ways to grow it back<br>
+like cretaceous era forests<br>
 
-absolutely unacceptable
+new tech stack released somewhere on earth?<br>
+absolutely unacceptable<br>
 
-must consume documentation like a starving raccoon eating ethernet cables
+must consume documentation<br>
+like a starving raccoon eating ethernet cables<br>
 
-normal people read books, i read API documentation recreationally
+normal people read books<br>
+i read API documentation recreationally<br>
 
-i also experiment like a resident evil mad scientist
+i also experiment like a resident evil mad scientist<br>
 
-friends treat me like tech support final boss DLC
+friends treat me like<br>
+tech support final boss DLC<br>
 
-phone broken
+phone broken<br>
+pc screaming<br>
+laptop possessed<br>
+wifi acting paranormal<br>
+printer doing satanic rituals<br>
 
-pc screaming
+they summon me with the elder scroll<br>
 
-laptop possessed
+i fix everyone else's devices for free<br>
+doing community service<br>
+to atone for my digital war crimes<br>
 
-wifi acting paranormal
+but my sleep schedule?<br>
 
-printer doing satanic rituals
+legacy system from 2007<br>
+no documentation<br>
+no patch<br>
+no developer support<br>
 
-they summon me with the elder scroll
+also my memory is deeply sus<br>
 
-i fix everyone else's devices for free doing community service to atone for my digital war crimes
+i remember what i ate<br>
+where i ate<br>
+what time i ate<br>
+and a random conversation from 2014 at 6:42 PM<br>
 
-but my sleep schedule?
+aws will probably kidnap me<br>
+to study this cursed archival storage<br>
 
-legacy system from 2007
+anyway<br>
 
-no documentation
+known in my social circle as<br>
+the walking google<br>
+where gemini internally cries<br>
+begging me to provide answers<br>
 
-no patch
+mate i intern at thomson reuters<br>
+if anyone from there sees this<br>
+im cooked lmfao<br>
 
-no developer support
+hr will summon me<br>
+like a dark souls boss fight<br>
 
-also my memory is deeply sus
+yes<br>
+im absolutely unhinged<br>
+if thats what youre thinking<br>
 
-i remember what i ate
+---
 
-where i ate
+👨‍💻 **Know more about me here:**<br>
+https://krishnanacharya.me<br>
 
-what time i ate
+📫 **Reach me at:**<br>
+[knacharyakavoor@gmail.com](mailto:knacharyakavoor@gmail.com)<br>
 
-and a random conversation from 2014 at 6:42 PM
+📄 **Resume:**<br>
+[View My Resume](https://drive.google.com/file/d/1UJA87j1UvrIHv7-fGhpSxzObj2iFHUUd/view?usp=sharing)<br>
+*(deprecated, busy eating hampters)*
 
-aws will prolly kidnap me to study this cursed archival storage
+---
 
-anyway
+# 📊 GitHub Stats
 
-known in my social circle as the walking google where gemini internally cries to me to provide answers
-
-mate i intern at thomson reuters, if anyone from there sees this im cooked lmfao, hr will summon me like dark souls boss fight
-
-yes, im absolutely unhinged if thats what youre thinking
-
-<br>
-
-👨‍💻 **Know more about me here! :** [krishnanacharya.me](https://www.krishnanacharya.me/)
-
-📫 **Reach me at:** knacharyakavoor@gmail.com <br>
-
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1UJA87j1UvrIHv7-fGhpSxzObj2iFHUUd/view?usp=sharing) (Depreciated, busy eating hampters) <br> 
-
-
-# 📊 GitHub Stats:
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-    <div style="flex: 2;">
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaNAcharya&theme=neon&hide_border=false" alt="GitHub Streak" />
-    </div>
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaNAcharya&theme=neon&hide_border=false" />
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KrishnaNAcharya&icon=5&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=KrishnaNAcharya\&icon=5\&color=10)](https://visitcount.itsvg.in)
+
+<!-- proudly created with GPRM -->

@@ -2,7 +2,7 @@
 
 idk what to write here and i dont want to throw ai slop here so ggs
 
-i joke 95% of the time,the other 5% is legally admissible in court, classified government information
+i joke 95% of the time, the other 5% is legally admissible in court, classified government information
 
 the pentagon denied my own brain access
 

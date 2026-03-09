@@ -1,7 +1,10 @@
-#  About Me (BRAINROT IMMENENT, certified OSHA voilation):
+# About Me
+
+<details>
+<summary>click here i dare you</summary>
+<br>
 
 idk what to write here and i dont want to throw ai slop here so ggs<br>
-
 i joke 95% of the time<br>
 the other 5% is legally admissible in court and is monitored by 3 fbi agents<br>
 classified government information<br>
@@ -58,7 +61,7 @@ laptop possessed<br>
 wifi acting paranormal<br>
 printer doing satanic rituals<br>
 microwave blinking SOS since 2011<br>
-roomba has gone feral and starts war agianst dogs<br>
+roomba has gone feral and starts war against dogs<br>
 
 they summon me with the elder scroll<br>
 
@@ -93,7 +96,9 @@ begging me to provide answers<br>
 
 also i dont use insta<br>
 or snap or other things that these peasants use<br>
-how cool am i(insert wojak crying behind a smirk mask meme)<br>
+i communicate exclusively via github commits<br>
+passive aggressive documentation<br>
+and concerning eye contact<br>
 
 mate i intern at thomson reuters<br>
 if anyone from there sees this<br>
@@ -110,16 +115,18 @@ im absolutely unhinged<br>
 keerthi is watching<br>
 bruv why are you still here lmfao<br>
 
+</details>
+
 ---
 
-👨‍💻 **Know more about me here:**<br>
-https://krishnanacharya.me<br>
+👨‍💻 **Know more about me here:**
+https://krishnanacharya.me
 
-📫 **Reach me at:**<br>
-[knacharyakavoor@gmail.com](mailto:knacharyakavoor@gmail.com)<br>
+📫 **Reach me at:**
+[knacharyakavoor@gmail.com](mailto:knacharyakavoor@gmail.com)
 
-📄 **Resume:**<br>
-[View My Resume](https://drive.google.com/file/d/1UJA87j1UvrIHv7-fGhpSxzObj2iFHUUd/view?usp=sharing)<br>
+📄 **Resume:**
+[View My Resume](https://drive.google.com/file/d/1UJA87j1UvrIHv7-fGhpSxzObj2iFHUUd/view?usp=sharing)
 *(deprecated, busy eating hampters)*
 
 ---
@@ -131,7 +138,5 @@ https://krishnanacharya.me<br>
 </div>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=KrishnaNAcharya\&icon=5\&color=10)](https://visitcount.itsvg.in)
 
 <!-- proudly created with GPRM -->

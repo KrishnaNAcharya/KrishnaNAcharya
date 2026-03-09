@@ -26,15 +26,9 @@ absolutely unacceptable
 
 must consume documentation like a starving raccoon eating ethernet cables
 
-normal people read books
+normal people read books, i read API documentation recreationally
 
-i read API documentation recreationally
-
-i also cook like a feral food war criminal scientist
-
-curd rice + pickled paprika
-
-do not ask questions ,the council has approved it
+i also experiment like a resident evil mad scientist
 
 friends treat me like tech support final boss DLC doing free community service to atone for my unforgivable war sins
 
@@ -62,7 +56,7 @@ no patch
 
 no developer support
 
-also my memory is deeply suspicious
+also my memory is deeply sus
 
 i remember what i ate
 
@@ -72,15 +66,13 @@ what time i ate
 
 and a random conversation from 2014 at 6:42 PM
 
-this is not memory
-
 aws will prolly kidnap me to study this cursed archival storage
 
 anyway
 
 known in my social circle as the walking google where gemini internally cries to me to provide answers
 
-bro i intern at thomson reuters, if anyone from there sees this im cooked lmfao, hr will summon me like dark souls boss fight
+mate i intern at thomson reuters, if anyone from there sees this im cooked lmfao, hr will summon me like dark souls boss fight
 
 <br>
 

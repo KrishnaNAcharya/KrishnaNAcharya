@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me (WARNING: BRAIN DAMAGE IMMINENT):
 
 idk what to write here and i dont want to throw ai slop here so ggs
 

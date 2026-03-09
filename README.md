@@ -1,10 +1,12 @@
-# 💫 About Me (BRAINROT IMMENENT):
+#  About Me (BRAINROT IMMENENT, certified OSHA voilation):
 
 idk what to write here and i dont want to throw ai slop here so ggs<br>
 
 i joke 95% of the time<br>
 the other 5% is legally admissible in court and is monitored by 3 fbi agents<br>
 classified government information<br>
+one of them has started rooting for me<br>
+we don't talk about agent keerthi prakash suvarna<br>
 
 the pentagon denied my own brain access<br>
 
@@ -56,12 +58,13 @@ laptop possessed<br>
 wifi acting paranormal<br>
 printer doing satanic rituals<br>
 microwave blinking SOS since 2011<br>
+roomba has gone feral and starts war agianst dogs<br>
 
 they summon me with the elder scroll<br>
 
 i fix everyone else's devices for free<br>
 doing community service<br>
-to atone for my digital war crimes<br>
+to atone for my digital war crimes (ICC is investigating)<br>
 
 but my sleep schedule?<br>
 
@@ -88,19 +91,24 @@ the walking google<br>
 where gemini internally cries<br>
 begging me to provide answers<br>
 
+also i dont use insta<br>
+or snap or other things that these peasants use<br>
+how cool am i(insert wojak crying behind a smirk mask meme)<br>
+
 mate i intern at thomson reuters<br>
 if anyone from there sees this<br>
 im cooked lmfao<br>
 if anyone from TR is reading this<br>
 my account was hacked<br>
-my cat wrote this<br>
+schrodingers cat wrote this<br>
 
 hr will summon me<br>
 like a dark souls boss fight<br>
 
 yes<br>
 im absolutely unhinged<br>
-if thats what youre thinking<br>
+keerthi is watching<br>
+bruv why are you still here lmfao<br>
 
 ---
 

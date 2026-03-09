@@ -1,5 +1,100 @@
 # 💫 About Me:
-I have the personality of a raccoon 
+i joke 95% of the time
+
+the other 5% is legally admissible in court, classified government information
+
+the pentagon denied my own brain access
+
+unfortunately i dont know which one, even i dont have clearance
+
+entire day: npc idle animation
+
+brain boots at 1:03 AM like a haunted windows update demon or a raccoon discovering electricity
+
+productivity? absolutely not
+
+opening 73 tabs about one term in the internet that doesnt even exist in the Oxford Dictionary or Ancient library of Alexandria? elite performance
+
+doctor says one word i dont recognize
+
+3 hours later im reading research papers like i have 10 years of medical background with 60 years of professional experience
+
+hairline moved back one kilometer
+
+my reaction was not sadness
+
+instead i downloaded the entire lore of hair follicles, i will find ways to grow it back like cretaceous era forests
+
+new tech stack released somewhere on earth?
+
+absolutely unacceptable
+
+must consume documentation like a starving raccoon eating ethernet cables
+
+normal people read books
+
+i read API documentation recreationally
+
+give me one topic and one night
+
+next day im talking like
+“yeah back when i was in the industry—”
+
+bro i learned this 8 hours ago
+
+i also cook like a feral food war criminal scientist
+
+curd rice + pickled paprika
+
+do not ask questions
+the council has approved it
+
+friends treat me like tech support final boss DLC doing free community service to atone for my unforgivable war sins
+
+phone broken
+
+pc screaming
+
+laptop possessed
+
+wifi acting paranormal
+
+printer doing satanic rituals
+
+they summon me with the elder scroll
+
+i fix everyone else's devices for free like a community service goblin
+
+but my sleep schedule?
+
+legacy system from 2007
+
+no documentation
+
+no patch
+
+no developer support
+
+
+also my memory is deeply suspicious
+
+i remember what i ate
+
+where i ate
+
+what time i ate
+
+and a random conversation from 2014 at 6:42 PM
+
+this is not memory
+
+aws will prolly kidnap me to study this cursed archival storage
+
+anyway
+
+known in my social circle as the walking google where gemini internally cries to me to provide answers
+
+bro i intern at thomson reuters, if anyone from there sees this im cooked medium rare
 
 <br>
 
@@ -7,7 +102,7 @@ I have the personality of a raccoon
 
 📫 **Reach me at:** knacharyakavoor@gmail.com <br>
 
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1UJA87j1UvrIHv7-fGhpSxzObj2iFHUUd/view?usp=sharing) (Depreciated, busy with raccoon activities) <br> 
+📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1UJA87j1UvrIHv7-fGhpSxzObj2iFHUUd/view?usp=sharing) (Depreciated, busy eating hampters) <br> 
 
 
 # 📊 GitHub Stats:

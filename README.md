@@ -30,7 +30,7 @@ normal people read books, i read API documentation recreationally
 
 i also experiment like a resident evil mad scientist
 
-friends treat me like tech support final boss DLC doing free community service to atone for my unforgivable war sins
+friends treat me like tech support final boss DLC
 
 phone broken
 
